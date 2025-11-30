@@ -4,6 +4,6 @@
 
 ## 📸 Скриншоты
 
-![Общий вид1](public/screenshot1.png)
-![Общий вид2](public/screenshot2.png)
-![Любимый фильм и просто фильм](public/screenshot3.png)
+![Общий вид1](public/skreenshot1.png)
+![Общий вид2](public/skreenshot2.png)
+![Любимый фильм и просто фильм](public/skreenshot3.png)
